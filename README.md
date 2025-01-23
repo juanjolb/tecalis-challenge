@@ -8,7 +8,7 @@ This is a repository that contains an Angular 19 project challenge for Tecalis, 
 
 * Install modules
     ```
-        npm install 
+     npm install 
     ```
 
 * Serve angular project
