@@ -1,0 +1,16 @@
+.game-details {
+
+    img {
+        width: 100%;
+        aspect-ratio: 32/9;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 15px;
+    }
+
+    .progress {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+}
